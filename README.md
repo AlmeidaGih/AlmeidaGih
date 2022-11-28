@@ -1,4 +1,4 @@
-## Oi, sou o Giovanna, estudante de ciência da computação e devops!
+## Oi, sou a Giovanna, estudante de ciência da computação e devops!
 
 <div align="left">
   <a href="https://github.com/AlmeidaGih">
