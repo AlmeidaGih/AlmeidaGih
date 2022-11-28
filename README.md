@@ -2,9 +2,9 @@
 
 <div align="left">
   <a href="https://github.com/AlmeidaGih">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AlmeidaGih&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaGih&layout=compact&langs_count=7&theme=gotham"/>
-    <img  alt="Gih-pic" height="175em" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957114061961715742/1046769474742796380/unknown.png">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlmeidaGih&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaGih&layout=compact&langs_count=7&theme=gotham"/>
+    <img  alt="Gih-pic" height="160em" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957114061961715742/1046769474742796380/unknown.png">
 </div>
   
 <div style="display: inline_block"><br>
